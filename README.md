@@ -18,7 +18,7 @@ colors.csv - Details of color name and three primary colors Red, Green and Blue 
 
 
 ## About OpenCV: It is also known as Compuer Vision 
-* I OpenCV library we can show image, brur it, make it black and white image with simple coding.
+* In OpenCV library we can show image, brur it, make it black and white image with simple coding.
 * cv2.imshow("original image",img) - To show the image.
 * img = cv2.blur(img, ksize = (5, 5)) - To blur the image.
 * I have drawn a rectangle and to get the color name to draw text on the window using cv2.rectangle and cv2.putText() function.
